@@ -1,0 +1,11 @@
+const LOCATION_WAKA_KIMI = {
+  latitude: -1.947466,
+  longitude: 30.059795,
+};
+
+const LOCATION_KIGALI_HEIGHTS_JAVA_HOUSE = {
+  latitude: -1.952602,
+  longitude: 30.083753,
+};
+
+export { LOCATION_WAKA_KIMI, LOCATION_KIGALI_HEIGHTS_JAVA_HOUSE };
