@@ -17,9 +17,12 @@ A mini delivery app for sharing live locations with pusher serverless functions
 npm install
 ```
 
-## 🚀 Running the app
+## ❗ Instructions
 
 ```bash
-# start
+# open in browser
+index.html
+
+# then run
 npm start
 ```
